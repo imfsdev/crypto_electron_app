@@ -8,6 +8,8 @@ built with node.js / HTML5 / Electron / CSS3 / Google APIs / Axios HTTP
 
 -- honing skills in new Electron application framework/libraries
 
-#### PROJECT WIKI:
+#### Electron / Node.js Crypto Value application:
 
-https://github.com/coledixon/electron_crypto_app/wiki/MAIN
+
+
+
